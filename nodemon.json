@@ -1,7 +1,7 @@
 {
     "env": {
        "MONGO_USER": "matabishi1976" ,
-       "MONGO_PASSWORD": "TD2V1Xw1UL0xbfWW",
+       "MONGO_PASSWORD": "NamU7Pod2w4xB5Ox",
        "MONGO_DB": "access-afya-api"
     }
 }
